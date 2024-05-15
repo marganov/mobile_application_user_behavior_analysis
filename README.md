@@ -1,0 +1,2 @@
+# mobile_application_user_behavior_analysis
+Анализ поведения пользователей мобильного приложения
